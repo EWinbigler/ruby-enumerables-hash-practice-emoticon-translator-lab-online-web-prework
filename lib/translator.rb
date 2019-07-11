@@ -16,7 +16,7 @@ def load_library(path)
   emoticon_hash
   # code goes here
  
-  load_library = YAML.load_file("./lib/emoticons.yml")
+
 end
 
 def get_japanese_emoticon
